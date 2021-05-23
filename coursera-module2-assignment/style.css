@@ -57,8 +57,10 @@ p{
 
 @media (max-width:767px) {
     /* mobile view */
-    *{
+    /* *{
         /* margin:0; */
+    div{
+        margin-right:4%;
     }
     .div{
         border:1px solid black;
@@ -72,7 +74,8 @@ p{
         padding:20px;
         /* margin-right: 10%;
         margin-left: 2%; */
-        
+    /* margin-right: 3%;;         */
+
     }
     h1{
         text-align: center;
